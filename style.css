@@ -12,15 +12,37 @@ body {
 .header {
     display: flex;
     background-color: lightblue;
-    padding: 1%;
+    padding: 1.5%;
     align-items: center;
     margin-left: -10px;
     margin-right: -10px;
     margin-top: -10px;
 }
 
+.navbar {
+    background-color: #90a5e6;
+    padding: 10px;
+    width: 73%
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.navbar a:hover {
+    background-color: #538da7;
+}
+
 .stats-container {
     display: flex;
+    background-color: rgb(140, 194, 205);
+    align-items: center;
+}
+
+.stats-container:hover {
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
