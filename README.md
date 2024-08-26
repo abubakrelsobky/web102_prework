@@ -28,7 +28,7 @@ Here's a walkthrough of implemented features:
 <img src='https://github.com/abubakrelsobky/web102_prework/blob/main/Video%20Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ScreenToGif 2.41
+GIF created with LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
